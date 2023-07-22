@@ -6,6 +6,13 @@
 This package is down-stream of SOEM project, you can view the origin project [HERE](https://github.com/OpenEtherCATsociety/SOEM). This project have removed all the examples, if you want to build the example program, please download the up-stream package.
 
 ## Install
+### From DEB package
+```bash
+sudo dpkg -i ros-humble-soem_1.4.0-0jammy_amd64.deb
+sudo dpkg -i ros-humble-soem-dbgsym_1.4.0-0jammy_amd64.ddeb
+```
+
+### From Source
 ROS2-SOEM is a ros2 package, to install and use it in your project, please running the following steps in your terminal:
 
 ```bash
