@@ -9,7 +9,6 @@ This package is down-stream of SOEM project, you can view the origin project [HE
 ### From DEB package
 ```bash
 sudo dpkg -i ros-humble-soem_1.4.0-0jammy_amd64.deb
-sudo dpkg -i ros-humble-soem-dbgsym_1.4.0-0jammy_amd64.ddeb
 ```
 
 ### From Source
